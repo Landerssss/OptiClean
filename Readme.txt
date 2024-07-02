@@ -2,5 +2,3 @@ This software can immediately display the small things you have downloaded in th
 
 
 
-
-This is my first time making software, so please correct me.
